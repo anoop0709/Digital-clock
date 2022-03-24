@@ -1,0 +1,26 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+body,html{
+    margin:0px;
+    padding: 0px;
+    background-color: #121818;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+#container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 400px;
+}
+#clock{
+    font-size: 100px;
+    color: red;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+   
+}
